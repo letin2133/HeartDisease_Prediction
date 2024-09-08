@@ -1,0 +1,3 @@
+The model remains effective on the test set by combining data balancing methods with an optimal threshold selection strategy. This approach has led to a reduction in False Negatives while increasing False Positives. Although the count of True Negatives has decreased slightly, it remains within an acceptable range, meeting the group's requirements for accuracy and practical applicability.
+
+However, to ensure the model operates effectively in real-world scenarios, it's essential to integrate expert knowledge from medical professionals, such as doctors and specialists. This collaboration will enhance the model’s reliability and clinical applicability, aligning its predictions with real-world medical practice and improving overall patient outcomes.
